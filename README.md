@@ -44,9 +44,9 @@ An AI-powered web application that converts meeting audio recordings into struct
 
 # 📖 Overview
 
-The **AI Meeting Summarizer** is a full-stack web application that automatically converts meeting recordings into structured meeting notes.
+The **AI Meeting Summarizer** is a full-stack web application that simplifies meeting documentation by automatically converting meeting recordings into structured meeting notes.
 
-Users can upload meeting audio recordings and receive:
+Users can upload meeting recordings in supported audio formats, and the application automatically generates:
 
 - Accurate speech-to-text transcription
 - AI-generated meeting summary
@@ -54,28 +54,28 @@ Users can upload meeting audio recordings and receive:
 - Action items
 - Meeting insights
 - Keywords
-- Metadata
-- Downloadable reports
+- Meeting metadata
+- Downloadable reports (PDF, Markdown, TXT)
 
-The application leverages **Whisper Large V3 Turbo** for speech recognition and **GPT OSS 120B** for intelligent summarization.
+The application uses **Whisper Large V3 Turbo** for speech recognition and **GPT-OSS-120B** for intelligent meeting summarization.
 
 ---
 
 # ✨ Features
 
-- 🎤 Audio upload with drag-and-drop support
+- 🎤 Audio upload with drag-and-drop support (MP3, WAV, M4A)
 - 📝 Automatic speech-to-text transcription
 - 🤖 AI-generated meeting summaries
 - 📌 Key decision extraction
 - ✅ Action item generation
-- 🏷 Suggested meeting title & category
+- 🏷 Suggested meeting title and category
 - 😊 Sentiment analysis
 - 🔑 Keyword extraction
-- 📊 Meeting insights & metadata
+- 📊 Meeting insights and metadata
 - 🔍 Transcript search
 - 📋 Copy to clipboard
-- 📄 Export as PDF, Markdown & TXT
-- 📱 Fully responsive user interface
+- 📄 Export as PDF, Markdown, and TXT
+- 📱 Responsive user interface
 
 ---
 
@@ -98,8 +98,8 @@ The application leverages **Whisper Large V3 Turbo** for speech recognition and 
 ## AI Services
 
 - Groq API
-- Whisper Large V3 Turbo
-- GPT OSS 120B
+- Whisper Large V3 Turbo (Speech-to-Text)
+- GPT-OSS-120B (Meeting Summarization)
 
 ---
 
@@ -132,7 +132,7 @@ meeting-summarizer/
 
 # ⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Shlok-Kulkarni-2005/AI-Meeting-Summarizer.git
@@ -207,7 +207,7 @@ http://localhost:5173
       Transcript Generation
                   │
                   ▼
-      LLM Processing (GPT OSS)
+      LLM Processing (GPT-OSS-120B)
                   │
       ┌───────────┼───────────┐
       ▼           ▼           ▼
@@ -228,7 +228,7 @@ http://localhost:5173
 | Method | Endpoint | Description |
 |---------|----------|-------------|
 | POST | `/upload` | Upload meeting audio |
-| POST | `/summarize` | Generate transcript, summary and action items |
+| POST | `/summarize` | Generate transcript, summary, and action items |
 
 ---
 
@@ -268,7 +268,7 @@ http://localhost:5173
 
 - Speaker diarization
 - Multi-language transcription
-- Longer meeting support
+- Support for longer meeting recordings
 - Cloud storage integration
 - Calendar integration
 - Real-time meeting transcription
@@ -278,7 +278,7 @@ http://localhost:5173
 
 # 📄 License
 
-This project is intended for educational and learning purposes.
+This project was developed for educational purposes as part of an academic assignment. It is intended for learning, demonstration, and portfolio use.
 
 ---
 
@@ -292,11 +292,3 @@ Vishwakarma Institute of Information Technology (VIIT), Pune
 **GitHub:** https://github.com/Shlok-Kulkarni-2005
 
 **LinkedIn:** https://www.linkedin.com/in/shlok-d-kulkarni/
-
----
-
-<div align="center">
-
-⭐ If you found this project useful, consider giving it a star.
-
-</div>
