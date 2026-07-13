@@ -191,6 +191,26 @@ Export Report
 
 ---
 
+## Screenshots
+
+Add screenshots of:
+
+- Upload Interface
+![Upload](screenshots/upload.png)
+
+- Transcription
+![Transcription](screenshots/transcript.png)
+- Generated Summary
+![Summary](screenshots/summary.png)
+
+- Action Items
+![Action Items](screenshots/action-items.png)
+
+- Meeting Insights
+![Insights](screenshots/insights.png)
+
+---
+
 ## License
 
 This project is intended for educational and learning purposes.
