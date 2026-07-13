@@ -1,10 +1,16 @@
 ---
 
+---
+
 ## Created By
 
-Shlok Kulkarni
-B.Tech Information Technology  
+**Shlok Kulkarni**
+
+B.Tech in Information Technology  
 Vishwakarma Institute of Information Technology (VIIT), Pune
+
+GitHub: [https://github.com/<your-github-username> ](https://github.com/Shlok-Kulkarni-2005) 
+LinkedIn: [https://www.linkedin.com/in/<your-linkedin-profile> *(Optional)*](https://www.linkedin.com/in/shlok-d-kulkarni/)
 
 ## AI Meeting Summarizer
 
