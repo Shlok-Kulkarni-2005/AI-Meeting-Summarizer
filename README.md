@@ -1,16 +1,13 @@
----
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
 
----
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
 
-## Created By
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC?logo=tailwind-css)
 
-**Shlok Kulkarni**
+![Groq](https://img.shields.io/badge/Groq-AI-black)
 
-B.Tech in Information Technology  
-Vishwakarma Institute of Information Technology (VIIT), Pune
+![License](https://img.shields.io/badge/License-Educational-blue)
 
-GitHub: [https://github.com/<your-github-username> ](https://github.com/Shlok-Kulkarni-2005) 
-LinkedIn: [https://www.linkedin.com/in/<your-linkedin-profile> *(Optional)*](https://www.linkedin.com/in/shlok-d-kulkarni/)
 
 ## AI Meeting Summarizer
 
@@ -91,7 +88,7 @@ meeting-summarizer/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Meeting-Summarizer.git
+git clone https://github.com/Shlok-Kulkarni-2005/AI-Meeting-Summarizer.git
 ```
 
 ### Install Backend
@@ -197,22 +194,26 @@ Export Report
 
 ---
 
-## Screenshots
+##  Screenshots
 
-Add screenshots of:
+### Upload Interface
 
-- Upload Interface
 ![Upload](screenshots/upload.png)
 
-- Transcription
-![Transcription](screenshots/transcript.png)
-- Generated Summary
+### Transcript
+
+![Transcript](screenshots/transcript.png)
+
+### Generated Summary
+
 ![Summary](screenshots/summary.png)
 
-- Action Items
+### Action Items
+
 ![Action Items](screenshots/action-items.png)
 
-- Meeting Insights
+### Meeting Insights
+
 ![Insights](screenshots/insights.png)
 
 ---
@@ -220,3 +221,17 @@ Add screenshots of:
 ## License
 
 This project is intended for educational and learning purposes.
+
+---
+
+## Created By
+
+**Shlok Kulkarni**
+
+B.Tech in Information Technology  
+Vishwakarma Institute of Information Technology (VIIT), Pune
+
+GitHub: [Shlok-Kulkarni-2005](https://github.com/Shlok-Kulkarni-2005)
+
+LinkedIn: [Shlok D Kulkarni](https://www.linkedin.com/in/shlok-d-kulkarni/)
+
