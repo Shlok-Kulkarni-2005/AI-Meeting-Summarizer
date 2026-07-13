@@ -191,18 +191,6 @@ Export Report
 
 ---
 
-## Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Upload Interface
-- Generated Summary
-- Action Items
-- Meeting Insights
-
----
-
 ## License
 
 This project is intended for educational and learning purposes.
