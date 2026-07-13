@@ -3,7 +3,7 @@
 # 🤖 AI Meeting Summarizer
 
 <p>
-  <img src="screenshots/home.png" alt="AI Meeting Summarizer" width="900"/>
+  <img src="screenshots/upload.png" alt="AI Meeting Summarizer" width="900"/>
 </p>
 
 <p>
